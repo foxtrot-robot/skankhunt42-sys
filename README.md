@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **skankhunt42-sys/skankhunt42-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
