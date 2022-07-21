@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=skankhunt42-sys&show_icons=true&theme=radical)
+![lolcool](https://komarev.com/ghpvc/?username=skankhunt42-sys)
 
